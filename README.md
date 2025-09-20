@@ -8,7 +8,7 @@ This project uses **RLUSD** as the main settlement currency.
 ## 🧪 Sample
 
 ![Screenshot](https://drive.google.com/uc?id=1uWDGS8EQHO1kCrrBxwQ1WVCBWgOZBIAU)
-[![Demo](https://drive.google.com/uc?id=1uWDGS8EQHO1kCrrBxwQ1WVCBWgOZBIAU)](https://drive.google.com/uc?id=1uWDGS8EQHO1kCrrBxwQ1WVCBWgOZBIAU)
+[![Demo](https://drive.google.com/file/d/1pi-RnK819Rf2IWXVhtgMzsVmVWX7ZUWl/view?usp=drive_link)](https://drive.google.com/file/d/1pi-RnK819Rf2IWXVhtgMzsVmVWX7ZUWl/view?usp=drive_link)
 
 
 ## 🚀 Example
